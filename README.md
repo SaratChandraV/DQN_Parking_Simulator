@@ -4,6 +4,8 @@
 
 This project implements a Deep Q-Network (DQN) for simulating and optimizing autonomous vehicle parking. The DQN model is trained to make parking decisions and achieve efficient and safe parking.
 
+![Simulation Video](https://github.com/SaratChandraV/DQN_Parking_Simulator/blob/main/simulation_video.gif)
+
 ## Features
 
 - Autonomous vehicle parking simulation.
